@@ -9,7 +9,7 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url('image/bg3.jpg');
+    background: url('https://img.freepik.com/free-photo/colorful-abstract-nebula-space-background_53876-111356.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 nav {
-    background: rgba(0, 0, 0, .46);
+    background: rgba(0, 0, 0, 0.46);
     position: sticky;
     top: 0;
     z-index: 9;
